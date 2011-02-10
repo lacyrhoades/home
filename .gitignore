@@ -1,2 +1,14 @@
-.DS_Store
+# Macintosh files
+.DS_Store?
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# IDE files
 .idea
+nbproject
