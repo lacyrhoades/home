@@ -1,0 +1,1 @@
+./symfony snow:build-all-reload --no-confirmation

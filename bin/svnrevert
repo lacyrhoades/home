@@ -1,0 +1,6 @@
+#!/bin/sh
+let REV1=$1-1
+let REV2=$1-0
+svn diff -r$REV2:$REV1 > revert.patch.tmp
+patch -p0 < revert.patch.tmp
+rm revert.patch.tmp

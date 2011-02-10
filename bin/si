@@ -1,0 +1,1 @@
+./symfony sympal:install --force-reinstall --no-confirmation

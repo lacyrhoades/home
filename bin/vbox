@@ -1,0 +1,1 @@
+nohup VBoxHeadless -s debian-vm < /dev/null > /dev/null 2>&1 &
