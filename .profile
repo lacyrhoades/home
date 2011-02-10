@@ -23,5 +23,3 @@ alias la='ls -a'
 alias lla='ls -la'
 alias lls='ls -la'
 
-# update local home dir from github
-git pull origin master
