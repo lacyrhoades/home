@@ -1,0 +1,7 @@
+[user]
+	name = Lacy Rhoades
+	email = lacyrhoades@gmail.com
+[core]
+	excludesfile = /Users/lacyrhoades/.gitignore
+[commit]
+	template = git_template
