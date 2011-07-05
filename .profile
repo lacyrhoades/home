@@ -6,8 +6,8 @@ export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 export PATH=~/bin:$PATH
 
 # turns on bash-completion
-if [ -f /opt/local/etc/bash_completion ]; then
-      . /opt/local/etc/bash_completion
+if [ -f `brew --prefix`/etc/bash_completion ]; then
+  . `brew --prefix`/etc/bash_completion
 fi
 
 # augment the bash prompt with the git branch (if there is one)
