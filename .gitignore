@@ -12,3 +12,24 @@ Icon?
 # IDE files
 .idea
 nbproject
+
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+development/
+.ssh
+.bash_history
+.DS_Store
+.Trash/
+.CFUserTextEncoding
+.dropbox/
+.keepassx/
+.lesshst
+.viminfo
+
