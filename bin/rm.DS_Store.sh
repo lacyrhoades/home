@@ -1,3 +1,3 @@
 #!/bin/bash
-find / -name ".DS_Store"  -exec rm {} \;
+2>/dev/null 1>/dev/null find / -name ".DS_Store"  -exec rm {} \
 
