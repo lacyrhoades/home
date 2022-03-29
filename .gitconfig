@@ -1,5 +1,7 @@
 [user]
 	name = Lacy Rhoades
-	email = lacyrhoades@gmail.com
+	email = lacy@dexter.st
+[init]
+	defaultBranch = main
 [core]
-	excludesfile = ~/.gitignore
+	excludesfile = /Users/lacyrhoades/.gitignore

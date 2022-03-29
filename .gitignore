@@ -1,18 +1,15 @@
 # Macintosh files
-.DS_Store?
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
 Icon?
-
-# Thumbnails
-._*
 
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
 
-# IDE files
-.idea
-nbproject
-
+iCloud
 Desktop/
 Documents/
 Downloads/
@@ -22,7 +19,7 @@ Movies/
 Music/
 Pictures/
 Public/
-development/
+Projects/
 .ssh
 .bash_history
 .DS_Store
@@ -32,4 +29,3 @@ development/
 .keepassx/
 .lesshst
 .viminfo
-
