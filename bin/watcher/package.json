@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "chokidar": "^3.5.3",
-    "fsevents": "^2.3.2",
-    "syncy": "^3.0.0"
-  }
-}
